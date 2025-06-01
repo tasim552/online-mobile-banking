@@ -1,1 +1,1 @@
-# online-mobile-banking
+# EDGE project online mobile banking system
